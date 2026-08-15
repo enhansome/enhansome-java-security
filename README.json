@@ -14,7 +14,7 @@
             "last_commit": "2026-07-24T12:52:30Z",
             "owner": "jwtk",
             "repo": "jjwt",
-            "stars": 11116
+            "stars": 11115
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T03:06:25Z",
             "owner": "spring-projects",
             "repo": "spring-security",
-            "stars": 9604
+            "stars": 9603
           }
         },
         {
@@ -113,10 +113,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T20:14:01Z",
+            "last_commit": "2026-08-14T20:12:27Z",
             "owner": "SonarSource",
             "repo": "sonarqube",
-            "stars": 10894
+            "stars": 10896
           }
         },
         {
@@ -141,7 +141,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-08T20:21:08Z",
+            "last_commit": "2026-08-15T06:15:10Z",
             "owner": "spotbugs",
             "repo": "spotbugs",
             "stars": 3919
@@ -178,7 +178,7 @@
             "last_commit": "2026-08-13T08:21:53Z",
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15598
+            "stars": 15607
           }
         },
         {
@@ -209,7 +209,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T13:37:11Z",
+            "last_commit": "2026-08-14T20:31:01Z",
             "owner": "snyk",
             "repo": "cli",
             "stars": 5637
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-01T16:25:31Z",
             "owner": "cryptomator",
             "repo": "cryptomator",
-            "stars": 15877
+            "stars": 15883
           }
         },
         {
@@ -260,7 +260,7 @@
             "last_commit": "2024-04-17T11:08:35Z",
             "owner": "tink-crypto",
             "repo": "tink",
-            "stars": 13539
+            "stars": 13540
           }
         },
         {
@@ -396,7 +396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T13:47:41.002Z",
+    "last_updated": "2026-08-15T13:01:32.168Z",
     "original_repository": "guardrailsio/awesome-java-security",
     "original_repository_sha": "24e772ddb5c016994004f446bbcd0f7c905f399c",
     "enhanced_repository": "enhansome/enhansome-java-security",

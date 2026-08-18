@@ -14,7 +14,7 @@
             "last_commit": "2026-07-24T12:52:30Z",
             "owner": "jwtk",
             "repo": "jjwt",
-            "stars": 11114
+            "stars": 11115
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T03:28:06Z",
+            "last_commit": "2026-08-18T03:22:09Z",
             "owner": "spring-projects",
             "repo": "spring-security",
             "stars": 9603
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T07:00:49Z",
+            "last_commit": "2026-08-18T05:32:07Z",
             "owner": "pac4j",
             "repo": "pac4j",
             "stars": 2519
@@ -113,10 +113,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T20:05:25Z",
+            "last_commit": "2026-08-17T20:07:22Z",
             "owner": "SonarSource",
             "repo": "sonarqube",
-            "stars": 10899
+            "stars": 10902
           }
         },
         {
@@ -141,7 +141,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T08:29:03Z",
+            "last_commit": "2026-08-18T05:58:27Z",
             "owner": "spotbugs",
             "repo": "spotbugs",
             "stars": 3922
@@ -178,7 +178,7 @@
             "last_commit": "2026-08-17T08:01:46Z",
             "owner": "zaproxy",
             "repo": "zaproxy",
-            "stars": 15623
+            "stars": 15632
           }
         },
         {
@@ -209,7 +209,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T11:29:33Z",
+            "last_commit": "2026-08-18T12:57:36Z",
             "owner": "snyk",
             "repo": "cli",
             "stars": 5641
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-01T16:25:31Z",
             "owner": "cryptomator",
             "repo": "cryptomator",
-            "stars": 15898
+            "stars": 15907
           }
         },
         {
@@ -285,7 +285,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T16:51:40Z",
+            "last_commit": "2026-08-18T13:02:26Z",
             "owner": "google",
             "repo": "conscrypt",
             "stars": 1399
@@ -336,7 +336,7 @@
             "last_commit": "2026-08-14T13:45:49Z",
             "owner": "WebGoat",
             "repo": "WebGoat",
-            "stars": 9280
+            "stars": 9282
           }
         },
         {
@@ -396,7 +396,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:09:35.152Z",
+    "last_updated": "2026-08-18T13:11:40.421Z",
     "original_repository": "guardrailsio/awesome-java-security",
     "original_repository_sha": "24e772ddb5c016994004f446bbcd0f7c905f399c",
     "enhanced_repository": "enhansome/enhansome-java-security",

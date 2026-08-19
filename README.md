@@ -5,7 +5,7 @@ A curated list of awesome Java security-related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,663 | 🐛 102 | 📅 2026-08-18 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,674 | 🐛 102 | 📅 2026-08-18 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -52,7 +52,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Vulnerabilities and Security Advisories
 
-* [Snyk](https://github.com/snyk/snyk) ⭐ 5,641 | 🐛 135 | 🌐 TypeScript | 📅 2026-08-19 - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies.
+* [Snyk](https://github.com/snyk/snyk) ⭐ 5,641 | 🐛 134 | 🌐 TypeScript | 📅 2026-08-19 - CLI and build-time tool to find & fix known vulnerabilities in open-source dependencies.
 * [OWASP Dependency-Check](https://github.com/jeremylong/DependencyCheck) ⚠️ Archived - Detects publicly disclosed vulnerabilities in application dependencies.
 * [Snyk Vulnerability DB](https://snyk.io/vuln?type=maven) - Commercial but free listing of known vulnerabilities in libraries.
 * [Common Vulnerabilities and Exposures](https://www.cvedetails.com/product/19117/Oracle-JRE.html?vendor_id=93) - Vulnerabilities that were assigned a CVE. Covers the language and packages.

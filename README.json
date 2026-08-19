@@ -222,7 +222,7 @@
                 "archived": false,
                 "id": 45247496,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T12:03:45Z",
+                "last_commit": "2026-08-19T13:09:26Z",
                 "owner": "snyk",
                 "repo": "cli",
                 "stars": 5641
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:34:33.369Z",
+    "last_updated": "2026-08-19T13:13:33.224Z",
     "original_repository": "guardrailsio/awesome-java-security",
     "original_repository_id": 165595507,
     "original_repository_sha": "24e772ddb5c016994004f446bbcd0f7c905f399c",

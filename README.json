@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 3148979,
                 "language": "Java",
-                "last_commit": "2026-08-18T17:23:07Z",
+                "last_commit": "2026-08-20T03:19:23Z",
                 "owner": "spring-projects",
                 "repo": "spring-security",
-                "stars": 9602
+                "stars": 9603
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 3291848,
                 "language": "Java",
-                "last_commit": "2026-08-19T06:49:31Z",
+                "last_commit": "2026-08-20T10:45:55Z",
                 "owner": "pac4j",
                 "repo": "pac4j",
-                "stars": 2519
+                "stars": 2520
               }
             },
             {
@@ -118,10 +118,10 @@
                 "archived": false,
                 "id": 1222504,
                 "language": "Java",
-                "last_commit": "2026-08-18T20:07:06Z",
+                "last_commit": "2026-08-19T20:08:35Z",
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 10906
+                "stars": 10910
               }
             },
             {
@@ -148,7 +148,7 @@
                 "archived": false,
                 "id": 72889410,
                 "language": "Java",
-                "last_commit": "2026-08-19T06:46:27Z",
+                "last_commit": "2026-08-20T03:17:12Z",
                 "owner": "spotbugs",
                 "repo": "spotbugs",
                 "stars": 3923
@@ -185,10 +185,10 @@
                 "archived": false,
                 "id": 36817565,
                 "language": "Java",
-                "last_commit": "2026-08-19T10:37:05Z",
+                "last_commit": "2026-08-20T08:50:08Z",
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15637
+                "stars": 15645
               }
             },
             {
@@ -222,7 +222,7 @@
                 "archived": false,
                 "id": 45247496,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T13:09:26Z",
+                "last_commit": "2026-08-20T13:13:34Z",
                 "owner": "snyk",
                 "repo": "cli",
                 "stars": 5641
@@ -262,7 +262,7 @@
                 "last_commit": "2026-08-18T15:42:10Z",
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 15916
+                "stars": 15922
               }
             },
             {
@@ -277,7 +277,7 @@
                 "last_commit": "2024-04-17T11:08:35Z",
                 "owner": "tink-crypto",
                 "repo": "tink",
-                "stars": 13541
+                "stars": 13539
               }
             },
             {
@@ -304,7 +304,7 @@
                 "archived": false,
                 "id": 76279202,
                 "language": "Java",
-                "last_commit": "2026-08-18T15:54:57Z",
+                "last_commit": "2026-08-20T12:38:19Z",
                 "owner": "google",
                 "repo": "conscrypt",
                 "stars": 1399
@@ -359,7 +359,7 @@
                 "last_commit": "2026-08-14T13:45:49Z",
                 "owner": "WebGoat",
                 "repo": "WebGoat",
-                "stars": 9284
+                "stars": 9285
               }
             },
             {
@@ -389,7 +389,7 @@
                 "last_commit": "2024-08-13T15:45:54Z",
                 "owner": "psiinon",
                 "repo": "bodgeit",
-                "stars": 288
+                "stars": 287
               }
             },
             {
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:13:33.224Z",
+    "last_updated": "2026-08-20T13:14:46.063Z",
     "original_repository": "guardrailsio/awesome-java-security",
     "original_repository_id": 165595507,
     "original_repository_sha": "24e772ddb5c016994004f446bbcd0f7c905f399c",

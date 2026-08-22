@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-24T12:52:30Z",
                 "owner": "jwtk",
                 "repo": "jjwt",
-                "stars": 11118
+                "stars": 11120
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 3148979,
                 "language": "Java",
-                "last_commit": "2026-08-21T03:04:45Z",
+                "last_commit": "2026-08-21T15:15:04Z",
                 "owner": "spring-projects",
                 "repo": "spring-security",
-                "stars": 9606
+                "stars": 9608
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2022-05-30T20:10:19Z",
                 "owner": "spring-attic",
                 "repo": "spring-security-oauth",
-                "stars": 4691
+                "stars": 4690
               }
             },
             {
@@ -118,10 +118,10 @@
                 "archived": false,
                 "id": 1222504,
                 "language": "Java",
-                "last_commit": "2026-08-20T20:09:32Z",
+                "last_commit": "2026-08-21T20:07:00Z",
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 10914
+                "stars": 10917
               }
             },
             {
@@ -136,7 +136,7 @@
                 "last_commit": "2022-09-20T18:09:09Z",
                 "owner": "michenriksen",
                 "repo": "gitrob",
-                "stars": 6198
+                "stars": 6197
               }
             },
             {
@@ -185,10 +185,10 @@
                 "archived": false,
                 "id": 36817565,
                 "language": "Java",
-                "last_commit": "2026-08-20T08:50:08Z",
+                "last_commit": "2026-08-21T13:16:22Z",
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15653
+                "stars": 15660
               }
             },
             {
@@ -222,10 +222,10 @@
                 "archived": false,
                 "id": 45247496,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T13:01:34Z",
+                "last_commit": "2026-08-21T21:16:31Z",
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5641
+                "stars": 5642
               }
             },
             {
@@ -262,7 +262,7 @@
                 "last_commit": "2026-08-18T15:42:10Z",
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 15924
+                "stars": 15934
               }
             },
             {
@@ -277,7 +277,7 @@
                 "last_commit": "2024-04-17T11:08:35Z",
                 "owner": "tink-crypto",
                 "repo": "tink",
-                "stars": 13538
+                "stars": 13539
               }
             },
             {
@@ -292,7 +292,7 @@
                 "last_commit": "2023-09-18T18:01:03Z",
                 "owner": "square",
                 "repo": "keywhiz",
-                "stars": 2624
+                "stars": 2623
               }
             },
             {
@@ -307,7 +307,7 @@
                 "last_commit": "2026-08-21T06:20:12Z",
                 "owner": "google",
                 "repo": "conscrypt",
-                "stars": 1399
+                "stars": 1400
               }
             },
             {
@@ -359,7 +359,7 @@
                 "last_commit": "2026-08-14T13:45:49Z",
                 "owner": "WebGoat",
                 "repo": "WebGoat",
-                "stars": 9284
+                "stars": 9286
               }
             },
             {
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T13:14:21.551Z",
+    "last_updated": "2026-08-22T13:03:46.141Z",
     "original_repository": "guardrailsio/awesome-java-security",
     "original_repository_id": 165595507,
     "original_repository_sha": "24e772ddb5c016994004f446bbcd0f7c905f399c",

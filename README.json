@@ -304,7 +304,7 @@
                 "archived": false,
                 "id": 76279202,
                 "language": "Java",
-                "last_commit": "2026-08-24T12:13:52Z",
+                "last_commit": "2026-08-24T14:14:45Z",
                 "owner": "google",
                 "repo": "conscrypt",
                 "stars": 1400
@@ -411,13 +411,35 @@
           "description": null,
           "node_type": "group",
           "title": "Hacking Playground"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Encrypting with SSL/TLS",
+              "description": "Step by step guide for encrypting client and server communication",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157111668,
+                "language": "Java",
+                "last_commit": "2026-08-15T15:08:21Z",
+                "owner": "Hakky54",
+                "repo": "mutual-tls-ssl",
+                "stars": 637
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Practices"
         }
       ],
       "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:16:58.251Z",
+    "last_updated": "2026-08-24T14:27:11.602Z",
     "original_repository": "guardrailsio/awesome-java-security",
     "original_repository_id": 165595507,
     "original_repository_sha": "24e772ddb5c016994004f446bbcd0f7c905f399c",

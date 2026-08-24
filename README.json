@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-24T12:52:30Z",
                 "owner": "jwtk",
                 "repo": "jjwt",
-                "stars": 11121
+                "stars": 11120
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 3148979,
                 "language": "Java",
-                "last_commit": "2026-08-21T15:15:04Z",
+                "last_commit": "2026-08-24T03:30:15Z",
                 "owner": "spring-projects",
                 "repo": "spring-security",
-                "stars": 9610
+                "stars": 9611
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 3291848,
                 "language": "Java",
-                "last_commit": "2026-08-23T08:41:36Z",
+                "last_commit": "2026-08-24T12:03:26Z",
                 "owner": "pac4j",
                 "repo": "pac4j",
                 "stars": 2520
@@ -121,7 +121,7 @@
                 "last_commit": "2026-08-22T20:06:02Z",
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 10918
+                "stars": 10920
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-03-26T05:29:48Z",
                 "owner": "find-sec-bugs",
                 "repo": "find-sec-bugs",
-                "stars": 2436
+                "stars": 2437
               }
             }
           ],
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-21T13:16:22Z",
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15669
+                "stars": 15675
               }
             },
             {
@@ -222,10 +222,10 @@
                 "archived": false,
                 "id": 45247496,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T21:16:31Z",
+                "last_commit": "2026-08-24T10:20:05Z",
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5643
+                "stars": 5644
               }
             },
             {
@@ -259,10 +259,10 @@
                 "archived": false,
                 "id": 16446099,
                 "language": "Java",
-                "last_commit": "2026-08-18T15:42:10Z",
+                "last_commit": "2026-08-24T09:14:43Z",
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 15969
+                "stars": 15992
               }
             },
             {
@@ -304,7 +304,7 @@
                 "archived": false,
                 "id": 76279202,
                 "language": "Java",
-                "last_commit": "2026-08-21T06:20:12Z",
+                "last_commit": "2026-08-24T12:13:52Z",
                 "owner": "google",
                 "repo": "conscrypt",
                 "stars": 1400
@@ -356,10 +356,10 @@
                 "archived": false,
                 "id": 31771754,
                 "language": "JavaScript",
-                "last_commit": "2026-08-14T13:45:49Z",
+                "last_commit": "2026-08-24T09:53:59Z",
                 "owner": "WebGoat",
                 "repo": "WebGoat",
-                "stars": 9288
+                "stars": 9289
               }
             },
             {
@@ -417,7 +417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:05:11.143Z",
+    "last_updated": "2026-08-24T13:16:58.251Z",
     "original_repository": "guardrailsio/awesome-java-security",
     "original_repository_id": 165595507,
     "original_repository_sha": "24e772ddb5c016994004f446bbcd0f7c905f399c",

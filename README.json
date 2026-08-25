@@ -121,7 +121,7 @@
                 "last_commit": "2026-08-24T20:09:36Z",
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 10920
+                "stars": 10921
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-21T13:16:22Z",
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15677
+                "stars": 15679
               }
             },
             {
@@ -222,7 +222,7 @@
                 "archived": false,
                 "id": 45247496,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T19:45:13Z",
+                "last_commit": "2026-08-25T12:53:57Z",
                 "owner": "snyk",
                 "repo": "cli",
                 "stars": 5646
@@ -259,10 +259,10 @@
                 "archived": false,
                 "id": 16446099,
                 "language": "Java",
-                "last_commit": "2026-08-24T09:14:43Z",
+                "last_commit": "2026-08-25T12:12:26Z",
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 16006
+                "stars": 16004
               }
             },
             {
@@ -322,7 +322,7 @@
                 "last_commit": "2019-05-14T02:29:29Z",
                 "owner": "google",
                 "repo": "keyczar",
-                "stars": 1094
+                "stars": 1093
               }
             },
             {
@@ -359,7 +359,7 @@
                 "last_commit": "2026-08-24T09:53:59Z",
                 "owner": "WebGoat",
                 "repo": "WebGoat",
-                "stars": 9289
+                "stars": 9291
               }
             },
             {
@@ -439,7 +439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:21:48.261Z",
+    "last_updated": "2026-08-25T13:14:46.502Z",
     "original_repository": "guardrailsio/awesome-java-security",
     "original_repository_id": 165595507,
     "original_repository_sha": "24e772ddb5c016994004f446bbcd0f7c905f399c",

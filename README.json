@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 3148979,
                 "language": "Java",
-                "last_commit": "2026-08-24T03:30:15Z",
+                "last_commit": "2026-08-26T03:24:51Z",
                 "owner": "spring-projects",
                 "repo": "spring-security",
-                "stars": 9611
+                "stars": 9612
               }
             },
             {
@@ -59,10 +59,10 @@
                 "archived": false,
                 "id": 3291848,
                 "language": "Java",
-                "last_commit": "2026-08-24T18:43:15Z",
+                "last_commit": "2026-08-26T13:24:44Z",
                 "owner": "pac4j",
                 "repo": "pac4j",
-                "stars": 2520
+                "stars": 2521
               }
             },
             {
@@ -118,10 +118,10 @@
                 "archived": false,
                 "id": 1222504,
                 "language": "Java",
-                "last_commit": "2026-08-24T20:09:36Z",
+                "last_commit": "2026-08-25T20:08:06Z",
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 10921
+                "stars": 10926
               }
             },
             {
@@ -148,10 +148,10 @@
                 "archived": false,
                 "id": 72889410,
                 "language": "Java",
-                "last_commit": "2026-08-20T14:46:16Z",
+                "last_commit": "2026-08-25T14:58:04Z",
                 "owner": "spotbugs",
                 "repo": "spotbugs",
-                "stars": 3923
+                "stars": 3925
               }
             },
             {
@@ -185,10 +185,10 @@
                 "archived": false,
                 "id": 36817565,
                 "language": "Java",
-                "last_commit": "2026-08-21T13:16:22Z",
+                "last_commit": "2026-08-26T08:30:48Z",
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15679
+                "stars": 15684
               }
             },
             {
@@ -222,10 +222,10 @@
                 "archived": false,
                 "id": 45247496,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T12:53:57Z",
+                "last_commit": "2026-08-26T11:59:55Z",
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5646
+                "stars": 5647
               }
             },
             {
@@ -259,10 +259,10 @@
                 "archived": false,
                 "id": 16446099,
                 "language": "Java",
-                "last_commit": "2026-08-25T12:12:26Z",
+                "last_commit": "2026-08-25T15:32:11Z",
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 16004
+                "stars": 16018
               }
             },
             {
@@ -277,7 +277,7 @@
                 "last_commit": "2024-04-17T11:08:35Z",
                 "owner": "tink-crypto",
                 "repo": "tink",
-                "stars": 13539
+                "stars": 13537
               }
             },
             {
@@ -304,10 +304,10 @@
                 "archived": false,
                 "id": 76279202,
                 "language": "Java",
-                "last_commit": "2026-08-24T16:04:28Z",
+                "last_commit": "2026-08-25T15:12:55Z",
                 "owner": "google",
                 "repo": "conscrypt",
-                "stars": 1400
+                "stars": 1401
               }
             },
             {
@@ -359,7 +359,7 @@
                 "last_commit": "2026-08-24T09:53:59Z",
                 "owner": "WebGoat",
                 "repo": "WebGoat",
-                "stars": 9291
+                "stars": 9292
               }
             },
             {
@@ -439,7 +439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:14:46.502Z",
+    "last_updated": "2026-08-26T13:26:08.149Z",
     "original_repository": "guardrailsio/awesome-java-security",
     "original_repository_id": 165595507,
     "original_repository_sha": "24e772ddb5c016994004f446bbcd0f7c905f399c",

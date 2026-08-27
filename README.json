@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T19:17:51Z",
                 "owner": "jwtk",
                 "repo": "jjwt",
-                "stars": 11121
+                "stars": 11122
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-26T16:17:58Z",
                 "owner": "spring-projects",
                 "repo": "spring-security",
-                "stars": 9615
+                "stars": 9617
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 3291848,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:18:47Z",
+                "last_commit": "2026-08-27T16:34:09Z",
                 "owner": "pac4j",
                 "repo": "pac4j",
                 "stars": 2521
@@ -121,7 +121,7 @@
                 "last_commit": "2026-08-26T20:48:29Z",
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 10932
+                "stars": 10934
               }
             },
             {
@@ -148,7 +148,7 @@
                 "archived": false,
                 "id": 72889410,
                 "language": "Java",
-                "last_commit": "2026-08-27T06:11:11Z",
+                "last_commit": "2026-08-27T21:23:42Z",
                 "owner": "spotbugs",
                 "repo": "spotbugs",
                 "stars": 3925
@@ -185,10 +185,10 @@
                 "archived": false,
                 "id": 36817565,
                 "language": "Java",
-                "last_commit": "2026-08-27T08:01:46Z",
+                "last_commit": "2026-08-27T15:18:12Z",
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15689
+                "stars": 15694
               }
             },
             {
@@ -222,7 +222,7 @@
                 "archived": false,
                 "id": 45247496,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:12:26Z",
+                "last_commit": "2026-08-27T17:38:27Z",
                 "owner": "snyk",
                 "repo": "cli",
                 "stars": 5650
@@ -259,10 +259,10 @@
                 "archived": false,
                 "id": 16446099,
                 "language": "Java",
-                "last_commit": "2026-08-27T09:12:30Z",
+                "last_commit": "2026-08-27T22:14:31Z",
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 16018
+                "stars": 16023
               }
             },
             {
@@ -304,10 +304,10 @@
                 "archived": false,
                 "id": 76279202,
                 "language": "Java",
-                "last_commit": "2026-08-27T08:34:00Z",
+                "last_commit": "2026-08-27T13:34:55Z",
                 "owner": "google",
                 "repo": "conscrypt",
-                "stars": 1401
+                "stars": 1402
               }
             },
             {
@@ -359,7 +359,7 @@
                 "last_commit": "2026-08-24T09:53:59Z",
                 "owner": "WebGoat",
                 "repo": "WebGoat",
-                "stars": 9293
+                "stars": 9296
               }
             },
             {
@@ -439,7 +439,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:47:44.128Z",
+    "last_updated": "2026-08-27T22:19:30.925Z",
     "original_repository_info": {
       "archived": false,
       "id": 165595507,

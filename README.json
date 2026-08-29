@@ -12,12 +12,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java JWT: JSON Web Token for Java and Android",
+                "homepage": null,
                 "id": 23982180,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T19:17:51Z",
+                "open_issues": 43,
                 "owner": "jwtk",
                 "repo": "jjwt",
-                "stars": 11124
+                "stars": 11123,
+                "topics": [
+                  "hacktoberfest",
+                  "jackson",
+                  "java",
+                  "java-jwt",
+                  "jjwt",
+                  "json",
+                  "jwe",
+                  "jwk",
+                  "jwk-thumbprint",
+                  "jwk-thumbprint-uri",
+                  "jwkset",
+                  "jws",
+                  "jwt",
+                  "jwt-auth",
+                  "jwt-authentication",
+                  "jwt-bearer-tokens",
+                  "jwt-claims",
+                  "jwt-server",
+                  "jwt-token",
+                  "jwt-tokens"
+                ]
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             },
@@ -28,12 +54,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Spring Security",
+                "homepage": "http://spring.io/projects/spring-security",
                 "id": 3148979,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T03:19:36Z",
+                "open_issues": 1476,
                 "owner": "spring-projects",
                 "repo": "spring-security",
-                "stars": 9618
+                "stars": 9619,
+                "topics": [
+                  "framework",
+                  "java",
+                  "security",
+                  "spring",
+                  "spring-framework"
+                ]
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             },
@@ -44,12 +81,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications.",
+                "homepage": "http://github.com/spring-projects/spring-security-oauth",
                 "id": 2108481,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-30T20:10:19Z",
+                "open_issues": 544,
                 "owner": "spring-attic",
                 "repo": "spring-security-oauth",
-                "stars": 4690
+                "stars": 4690,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             },
@@ -60,12 +102,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Security engine for Java (authentication, authorization, multi frameworks): OpenID Connect, SAML2, CAS, OAuth, LDAP, JWT...",
+                "homepage": "http://www.pac4j.org",
                 "id": 3291848,
                 "language": "Java",
-                "last_commit": "2026-08-28T21:28:09Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:12:53Z",
+                "open_issues": 2,
                 "owner": "pac4j",
                 "repo": "pac4j",
-                "stars": 2522
+                "stars": 2522,
+                "topics": [
+                  "authentication",
+                  "authorization",
+                  "cas",
+                  "dropwizard",
+                  "j2e",
+                  "java",
+                  "jax-rs",
+                  "jwt",
+                  "ldap",
+                  "oauth",
+                  "openid-connect",
+                  "play-framework",
+                  "ratpack",
+                  "saml",
+                  "security",
+                  "shiro",
+                  "sparkjava",
+                  "spring-mvc",
+                  "spring-security",
+                  "vertx"
+                ]
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             },
@@ -76,12 +144,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ESAPI (The OWASP Enterprise Security API) is a free, open source, web application security control library that makes it easier for programmers to write lower-risk applications.",
+                "homepage": "https://owasp.org/www-project-enterprise-security-api/",
                 "id": 23857463,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-11T04:12:46Z",
+                "open_issues": 132,
                 "owner": "ESAPI",
                 "repo": "esapi-java-legacy",
-                "stars": 648
+                "stars": 648,
+                "topics": [
+                  "java",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             }
@@ -99,12 +175,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A project security/vulnerability/risk scanning tool",
+                "homepage": null,
                 "id": 85411269,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-31T08:51:08Z",
+                "open_issues": 26,
                 "owner": "hawkeyesec",
                 "repo": "scanner-cli",
-                "stars": 361
+                "stars": 361,
+                "topics": [
+                  "ci",
+                  "docker",
+                  "nodejs",
+                  "npm",
+                  "ruby",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             }
@@ -122,12 +210,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Continuous Inspection",
+                "homepage": "http://www.sonarqube.org",
                 "id": 1222504,
                 "language": "Java",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-08-28T22:00:03Z",
+                "open_issues": 1,
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 10936
+                "stars": 10936,
+                "topics": [
+                  "code-quality",
+                  "sonarqube",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             },
@@ -138,12 +235,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reconnaissance tool for GitHub organizations",
+                "homepage": "https://michenriksen.com/blog/gitrob-now-in-go/",
                 "id": 28916646,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-09-20T18:09:09Z",
+                "open_issues": 74,
                 "owner": "michenriksen",
                 "repo": "gitrob",
-                "stars": 6199
+                "stars": 6199,
+                "topics": [
+                  "github-api",
+                  "golang",
+                  "osint",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             },
@@ -154,12 +261,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.",
+                "homepage": "https://spotbugs.github.io/",
                 "id": 72889410,
                 "language": "Java",
-                "last_commit": "2026-08-27T22:54:46Z",
+                "license": "LGPL-2.1",
+                "last_commit": "2026-08-29T01:17:58Z",
+                "open_issues": 491,
                 "owner": "spotbugs",
                 "repo": "spotbugs",
-                "stars": 3927
+                "stars": 3927,
+                "topics": [
+                  "code-analysis",
+                  "findbugs",
+                  "hacktoberfest",
+                  "linter",
+                  "static-analysis",
+                  "static-code-analysis"
+                ]
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             },
@@ -170,12 +289,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The SpotBugs plugin for security audits of Java web applications and Android applications. (Also work with Kotlin, Groovy and Scala projects)",
+                "homepage": "https://find-sec-bugs.github.io/",
                 "id": 4354801,
                 "language": "Java",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-03-26T05:29:48Z",
+                "open_issues": 115,
                 "owner": "find-sec-bugs",
                 "repo": "find-sec-bugs",
-                "stars": 2439
+                "stars": 2439,
+                "topics": [
+                  "bytecode",
+                  "code-analysis",
+                  "cwe",
+                  "findbugs",
+                  "hacktoberfest",
+                  "java",
+                  "owasp",
+                  "security",
+                  "security-audit",
+                  "static-analysis",
+                  "taint-analysis"
+                ]
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             }
@@ -193,12 +329,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The ZAP by Checkmarx Core project",
+                "homepage": "https://www.zaproxy.org",
                 "id": 36817565,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T15:18:12Z",
+                "open_issues": 858,
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15696
+                "stars": 15701,
+                "topics": [
+                  "appsec",
+                  "dast",
+                  "hacktoberfest",
+                  "opensource",
+                  "security",
+                  "security-scanner",
+                  "zap",
+                  "zap-development",
+                  "zaproxy"
+                ]
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             },
@@ -209,12 +360,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code Pulse is a real-time code coverage tool for penetration testing activities",
+                "homepage": "http://code-pulse.com",
                 "id": 18062312,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-27T10:40:29Z",
+                "open_issues": 15,
                 "owner": "codedx",
                 "repo": "codepulse",
-                "stars": 126
+                "stars": 126,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             }
@@ -232,12 +388,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snyk CLI scans and monitors your projects for security vulnerabilities.",
+                "homepage": "https://snyk.io",
                 "id": 45247496,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T19:11:32Z",
+                "open_issues": 135,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5650
+                "stars": 5651,
+                "topics": [
+                  "monitor",
+                  "security",
+                  "snyk",
+                  "vulnerabilities"
+                ]
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             },
@@ -248,12 +414,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The dependency-check repository has moved:",
+                "homepage": "http://github.com/dependency-check/DependencyCheck",
                 "id": 917205905,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-27T20:17:48Z",
+                "open_issues": 1,
                 "owner": "jeremylong",
                 "repo": "DependencyCheck",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             }
@@ -271,12 +442,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.",
+                "homepage": "https://cryptomator.org",
                 "id": 16446099,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T22:14:31Z",
+                "open_issues": 287,
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 16030
+                "stars": 16030,
+                "topics": [
+                  "cloud-storage",
+                  "crypto",
+                  "cryptography",
+                  "cryptomator",
+                  "encryption",
+                  "java",
+                  "privacy",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             },
@@ -287,12 +472,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.",
+                "homepage": "https://developers.google.com/tink",
                 "id": 20570214,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-17T11:08:35Z",
+                "open_issues": 0,
                 "owner": "tink-crypto",
                 "repo": "tink",
-                "stars": 13538
+                "stars": 13538,
+                "topics": [
+                  "cpp",
+                  "crypto",
+                  "cryptography",
+                  "go",
+                  "java",
+                  "javascript",
+                  "objc",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             },
@@ -303,12 +502,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A system for distributing and managing secrets",
+                "homepage": "https://square.github.io/keywhiz/",
                 "id": 32866430,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-18T18:01:03Z",
+                "open_issues": 46,
                 "owner": "square",
                 "repo": "keywhiz",
-                "stars": 2623
+                "stars": 2623,
+                "topics": [
+                  "crypto",
+                  "enterprise-software",
+                  "keywhiz",
+                  "manage-secrets",
+                  "secret-distribution",
+                  "secret-management",
+                  "secrets",
+                  "secrets-management"
+                ]
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             },
@@ -319,12 +532,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension.",
+                "homepage": null,
                 "id": 76279202,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T13:34:55Z",
+                "open_issues": 164,
                 "owner": "google",
                 "repo": "conscrypt",
-                "stars": 1403
+                "stars": 1403,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             },
@@ -335,12 +553,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Easy-to-use crypto toolkit",
+                "homepage": null,
                 "id": 31828498,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2019-05-14T02:29:29Z",
+                "open_issues": 0,
                 "owner": "google",
                 "repo": "keyczar",
-                "stars": 1093
+                "stars": 1093,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             },
@@ -351,12 +574,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java client for ACME (Let's Encrypt)",
+                "homepage": "https://acme4j.shredzone.org",
                 "id": 47419635,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-03T14:53:45Z",
+                "open_issues": 7,
                 "owner": "shred",
                 "repo": "acme4j",
-                "stars": 592
+                "stars": 592,
+                "topics": [
+                  "acme-protocol",
+                  "java-client",
+                  "letsencrypt"
+                ]
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             }
@@ -374,12 +606,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebGoat is a deliberately insecure application",
+                "homepage": "https://owasp.org/www-project-webgoat/",
                 "id": 31771754,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T09:53:59Z",
+                "open_issues": 39,
                 "owner": "WebGoat",
                 "repo": "WebGoat",
-                "stars": 9302
+                "stars": 9302,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             },
@@ -390,12 +627,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web and mobile application security training platform",
+                "homepage": "https://owasp.org/www-project-security-shepherd/",
                 "id": 14259857,
                 "language": "Java",
-                "last_commit": "2026-08-12T00:54:18Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T22:45:27Z",
+                "open_issues": 147,
                 "owner": "OWASP",
                 "repo": "SecurityShepherd",
-                "stars": 1456
+                "stars": 1456,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             },
@@ -406,12 +648,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing. ",
+                "homepage": null,
                 "id": 32089788,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2024-08-13T15:45:54Z",
+                "open_issues": 17,
                 "owner": "psiinon",
                 "repo": "bodgeit",
-                "stars": 287
+                "stars": 287,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             },
@@ -422,12 +669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The OWASP Benchmark GitHub repo has moved to: https://github.com/OWASP-Benchmark/BenchmarkJava",
+                "homepage": "https://github.com/OWASP-Benchmark/BenchmarkJava",
                 "id": 408589020,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-09-20T21:02:50Z",
+                "open_issues": 0,
                 "owner": "OWASP",
                 "repo": "Benchmark",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             }
@@ -445,12 +697,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔐 Tutorial of setting up Security for your API with one way authentication with TLS/SSL and mutual authentication for a java based web server and a client with both Spring Boot. Different clients are provided such as Apache HttpClient, OkHttp, Spring RestTemplate, Spring WebFlux WebClient Jetty and Netty, the old and the new JDK HttpClient, the old and the new Jersey Client, Google HttpClient, Unirest, Retrofit, Feign, Methanol, vertx, Scala client Finagle, Featherbed, Dispatch Reboot, AsyncHttpClient, Sttp, Akka, Requests Scala, Http4s Blaze, Kotlin client Fuel, http4k, Kohttp and ktor. Also other server examples are available such as jersey with grizzly. Also gRPC, WebSocket and ElasticSearch examples are included",
+                "homepage": null,
                 "id": 157111668,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T19:19:32Z",
+                "open_issues": 1,
                 "owner": "Hakky54",
                 "repo": "mutual-tls-ssl",
-                "stars": 637
+                "stars": 637,
+                "topics": [
+                  "certificate",
+                  "certificate-authority",
+                  "certificate-signing-request",
+                  "encryption",
+                  "https",
+                  "java",
+                  "keystore",
+                  "keytool",
+                  "kotlin",
+                  "mutual-authentication",
+                  "mutual-tls",
+                  "openssl",
+                  "scala",
+                  "security",
+                  "server",
+                  "spring-boot",
+                  "ssl",
+                  "tls",
+                  "truststore",
+                  "two-way-ssl-authentication"
+                ]
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
             }
@@ -464,15 +742,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:26:25.671Z",
+    "last_updated": "2026-08-29T04:47:21.525Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Java Security Resources 🕶☕🔐",
+      "homepage": null,
       "id": 165595507,
       "language": null,
+      "license": null,
       "last_commit": "2023-08-24T08:53:57Z",
+      "open_issues": 5,
       "owner": "guardrailsio",
       "repo": "awesome-java-security",
-      "stars": 321
+      "stars": 321,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "java",
+        "security",
+        "security-testing",
+        "security-tools",
+        "static-analysis"
+      ]
     },
     "original_repository_sha": "24e772ddb5c016994004f446bbcd0f7c905f399c",
     "enhanced_repository": "enhansome/enhansome-java-security",

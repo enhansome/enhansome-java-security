@@ -5,7 +5,7 @@ A curated list of awesome Java security-related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,219 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 503,539 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -36,9 +36,9 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Static Code Analysis
 
-* [Sonarqube](https://github.com/SonarSource/sonarqube) ⭐ 10,954 | 🐛 0 | 🌐 Java | 📅 2026-09-04 - SonarQube provides the capability to show the health of an application and highlight newly introduced issues.
+* [Sonarqube](https://github.com/SonarSource/sonarqube) ⭐ 10,955 | 🐛 0 | 🌐 Java | 📅 2026-09-04 - SonarQube provides the capability to show the health of an application and highlight newly introduced issues.
 * [Gitrob](https://github.com/michenriksen/gitrob) ⚠️ Archived - Gitrob is a tool to help find potentially sensitive files pushed to public repositories on Github.
-* [Spotbugs](https://github.com/spotbugs/spotbugs) ⭐ 3,934 | 🐛 505 | 🌐 Java | 📅 2026-09-04 - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
+* [Spotbugs](https://github.com/spotbugs/spotbugs) ⭐ 3,935 | 🐛 500 | 🌐 Java | 📅 2026-09-05 - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 * [Find Security Bugs](https://github.com/find-sec-bugs/find-sec-bugs/) ⭐ 2,441 | 🐛 115 | 🌐 Java | 📅 2026-03-26 - SpotBugs plugin for security audits of Java web applications and Android applications.
 * [Detect Secrets](https://libraries.io/pypi/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 * [Oversecured](https://oversecured.com/) - A static analyzer for Android apps (APK files), searches for security vulnerabilities. Contains 90+ vulnerability categories.
@@ -46,7 +46,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Runtime Analysis
 
-* [OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 15,738 | 🐛 860 | 🌐 Java | 📅 2026-09-03 -  Helps automatically find security vulnerabilities in your web applications.
+* [OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 15,739 | 🐛 860 | 🌐 Java | 📅 2026-09-03 -  Helps automatically find security vulnerabilities in your web applications.
 * [Code Pulse](https://github.com/codedx/codepulse) ⭐ 126 | 🐛 15 | 🌐 HTML | 📅 2026-09-02 - Code Pulse is a real-time code coverage tool for penetration testing activities.
 * [Contrast Community Edition](https://www.contrastsecurity.com/contrast-community-edition) - Free runtime protection and vulnerability detection tool, identifying issues in running applications.
 
@@ -61,7 +61,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Cryptography
 
-* [Cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 16,089 | 🐛 286 | 🌐 Java | 📅 2026-09-01 - Multi-platform transparent client-side encryption of your files in the cloud.
+* [Cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 16,095 | 🐛 285 | 🌐 Java | 📅 2026-09-01 - Multi-platform transparent client-side encryption of your files in the cloud.
 * [Tink](https://github.com/google/tink) ⚠️ Archived - Multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 * [Keywhiz](https://github.com/square/keywhiz) ⚠️ Archived - System for distributing and managing secrets.
 * [Conscrypt](https://github.com/google/conscrypt) ⭐ 1,406 | 🐛 163 | 🌐 Java | 📅 2026-09-03 - Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension.
@@ -73,7 +73,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Hacking Playground
 
-* [WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,319 | 🐛 40 | 🌐 JavaScript | 📅 2026-08-31 - A deliberately insecure Java Web Application.
+* [WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,319 | 🐛 33 | 🌐 JavaScript | 📅 2026-09-06 - A deliberately insecure Java Web Application.
 * [Security Shepherd](https://github.com/OWASP/SecurityShepherd) ⭐ 1,456 | 🐛 148 | 🌐 Java | 📅 2026-09-02 - Web and mobile application security training platform.
 * [BodgeIt Store](https://github.com/psiinon/bodgeit) ⭐ 287 | 🐛 17 | 🌐 Java | 📅 2024-08-13 - A vulnerable web application aimed at people who are new to pen testing.
 * [OWASP Benchmark](https://github.com/OWASP/Benchmark) ⭐ 5 | 🐛 0 | 📅 2021-09-20 - A Java test suite designed to verify the speed and accuracy of vulnerability detection tools.
@@ -116,4 +116,4 @@ Just follow the [guidelines](/CONTRIBUTING.MD). Thank you!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

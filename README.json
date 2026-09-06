@@ -219,7 +219,7 @@
                 "open_issues": 0,
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 10954,
+                "stars": 10955,
                 "topics": [
                   "code-quality",
                   "sonarqube",
@@ -266,11 +266,11 @@
                 "id": 72889410,
                 "language": "Java",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-09-04T20:40:10Z",
-                "open_issues": 505,
+                "last_commit": "2026-09-05T21:52:32Z",
+                "open_issues": 500,
                 "owner": "spotbugs",
                 "repo": "spotbugs",
-                "stars": 3934,
+                "stars": 3935,
                 "topics": [
                   "code-analysis",
                   "findbugs",
@@ -338,7 +338,7 @@
                 "open_issues": 860,
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15738,
+                "stars": 15739,
                 "topics": [
                   "appsec",
                   "dast",
@@ -448,10 +448,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-01T16:26:56Z",
-                "open_issues": 286,
+                "open_issues": 285,
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 16089,
+                "stars": 16095,
                 "topics": [
                   "cloud-storage",
                   "crypto",
@@ -611,8 +611,8 @@
                 "id": 31771754,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T09:53:13Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-06T12:05:11Z",
+                "open_issues": 33,
                 "owner": "WebGoat",
                 "repo": "WebGoat",
                 "stars": 9319,
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T15:18:53.568Z",
+    "last_updated": "2026-09-06T15:31:53.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Java Security Resources 🕶☕🔐",

@@ -18,10 +18,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T20:39:35Z",
-                "open_issues": 46,
+                "open_issues": 47,
                 "owner": "jwtk",
                 "repo": "jjwt",
-                "stars": 11139,
+                "stars": 11138,
                 "topics": [
                   "hacktoberfest",
                   "jackson",
@@ -63,7 +63,7 @@
                 "open_issues": 1503,
                 "owner": "spring-projects",
                 "repo": "spring-security",
-                "stars": 9638,
+                "stars": 9637,
                 "topics": [
                   "framework",
                   "java",
@@ -219,7 +219,7 @@
                 "open_issues": 1,
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 11043,
+                "stars": 11044,
                 "topics": [
                   "code-quality",
                   "sonarqube",
@@ -335,10 +335,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T08:13:37Z",
-                "open_issues": 864,
+                "open_issues": 863,
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15860,
+                "stars": 15863,
                 "topics": [
                   "appsec",
                   "dast",
@@ -448,10 +448,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-01T04:09:00Z",
-                "open_issues": 281,
+                "open_issues": 282,
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 16234,
+                "stars": 16240,
                 "topics": [
                   "cloud-storage",
                   "crypto",
@@ -636,7 +636,7 @@
                 "open_issues": 158,
                 "owner": "OWASP",
                 "repo": "SecurityShepherd",
-                "stars": 1458,
+                "stars": 1459,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:50:08.794Z",
+    "last_updated": "2026-10-03T16:27:36.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Java Security Resources 🕶☕🔐",

@@ -5,7 +5,7 @@ A curated list of awesome Java security-related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02 list thing.*
+*List inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 513,989 | 🐛 106 | 📅 2026-09-02 list thing.*
 
 Supported by: [GuardRails.io](https://www.guardrails.io)
 
@@ -22,8 +22,8 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Web Framework Hardening
 
-* [JJWT](https://github.com/jwtk/jjwt) ⭐ 11,139 | 🐛 46 | 🌐 Java | 📅 2026-09-28 - Java JWT: JSON Web Token for Java and Android.
-* [Spring Security](https://github.com/spring-projects/spring-security) ⭐ 9,638 | 🐛 1,503 | 🌐 Java | 📅 2026-10-02 - A powerful and highly customizable authentication and access-control framework.
+* [JJWT](https://github.com/jwtk/jjwt) ⭐ 11,138 | 🐛 47 | 🌐 Java | 📅 2026-09-28 - Java JWT: JSON Web Token for Java and Android.
+* [Spring Security](https://github.com/spring-projects/spring-security) ⭐ 9,637 | 🐛 1,503 | 🌐 Java | 📅 2026-10-02 - A powerful and highly customizable authentication and access-control framework.
 * [Spring Security Oauth](https://github.com/spring-projects/spring-security-oauth) ⚠️ Archived - Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications.
 * [PAC4J](https://github.com/pac4j/pac4j) ⭐ 2,530 | 🐛 2 | 🌐 Java | 📅 2026-10-03 - Security engine for Java to authenticate users, get their profiles and manage authorizations in order to secure web applications and web services.
 * [OWASP ESAPI Java](https://github.com/ESAPI/esapi-java-legacy) ⭐ 648 | 🐛 135 | 🌐 Java | 📅 2026-09-18 - Enterprise Security API is a free, open source, web application security control library that makes it easier for programmers to write lower-risk applications.
@@ -36,7 +36,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Static Code Analysis
 
-* [Sonarqube](https://github.com/SonarSource/sonarqube) ⭐ 11,043 | 🐛 1 | 🌐 Java | 📅 2026-10-02 - SonarQube provides the capability to show the health of an application and highlight newly introduced issues.
+* [Sonarqube](https://github.com/SonarSource/sonarqube) ⭐ 11,044 | 🐛 1 | 🌐 Java | 📅 2026-10-02 - SonarQube provides the capability to show the health of an application and highlight newly introduced issues.
 * [Gitrob](https://github.com/michenriksen/gitrob) ⚠️ Archived - Gitrob is a tool to help find potentially sensitive files pushed to public repositories on Github.
 * [Spotbugs](https://github.com/spotbugs/spotbugs) ⭐ 3,949 | 🐛 468 | 🌐 Java | 📅 2026-10-03 - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 * [Find Security Bugs](https://github.com/find-sec-bugs/find-sec-bugs/) ⭐ 2,448 | 🐛 116 | 🌐 Java | 📅 2026-03-26 - SpotBugs plugin for security audits of Java web applications and Android applications.
@@ -46,7 +46,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Runtime Analysis
 
-* [OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 15,860 | 🐛 864 | 🌐 Java | 📅 2026-10-01 -  Helps automatically find security vulnerabilities in your web applications.
+* [OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 15,863 | 🐛 863 | 🌐 Java | 📅 2026-10-01 -  Helps automatically find security vulnerabilities in your web applications.
 * [Code Pulse](https://github.com/codedx/codepulse) ⭐ 126 | 🐛 15 | 🌐 HTML | 📅 2026-09-02 - Code Pulse is a real-time code coverage tool for penetration testing activities.
 * [Contrast Community Edition](https://www.contrastsecurity.com/contrast-community-edition) - Free runtime protection and vulnerability detection tool, identifying issues in running applications.
 
@@ -61,7 +61,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Cryptography
 
-* [Cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 16,234 | 🐛 281 | 🌐 Java | 📅 2026-10-01 - Multi-platform transparent client-side encryption of your files in the cloud.
+* [Cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 16,240 | 🐛 282 | 🌐 Java | 📅 2026-10-01 - Multi-platform transparent client-side encryption of your files in the cloud.
 * [Tink](https://github.com/google/tink) ⚠️ Archived - Multi-language, cross-platform library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 * [Keywhiz](https://github.com/square/keywhiz) ⚠️ Archived - System for distributing and managing secrets.
 * [Conscrypt](https://github.com/google/conscrypt) ⭐ 1,410 | 🐛 161 | 🌐 Java | 📅 2026-09-28 - Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension.
@@ -74,7 +74,7 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 ## Hacking Playground
 
 * [WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,389 | 🐛 45 | 🌐 JavaScript | 📅 2026-09-28 - A deliberately insecure Java Web Application.
-* [Security Shepherd](https://github.com/OWASP/SecurityShepherd) ⭐ 1,458 | 🐛 158 | 🌐 Java | 📅 2026-09-02 - Web and mobile application security training platform.
+* [Security Shepherd](https://github.com/OWASP/SecurityShepherd) ⭐ 1,459 | 🐛 158 | 🌐 Java | 📅 2026-09-02 - Web and mobile application security training platform.
 * [BodgeIt Store](https://github.com/psiinon/bodgeit) ⭐ 287 | 🐛 17 | 🌐 Java | 📅 2024-08-13 - A vulnerable web application aimed at people who are new to pen testing.
 * [OWASP Benchmark](https://github.com/OWASP/Benchmark) ⭐ 5 | 🐛 0 | 📅 2021-09-20 - A Java test suite designed to verify the speed and accuracy of vulnerability detection tools.
 

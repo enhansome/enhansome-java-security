@@ -17,11 +17,11 @@
                 "id": 23982180,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T20:39:35Z",
+                "last_commit": "2026-10-04T15:44:26Z",
                 "open_issues": 47,
                 "owner": "jwtk",
                 "repo": "jjwt",
-                "stars": 11138,
+                "stars": 11137,
                 "topics": [
                   "hacktoberfest",
                   "jackson",
@@ -60,10 +60,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T03:03:47Z",
-                "open_issues": 1503,
+                "open_issues": 1507,
                 "owner": "spring-projects",
                 "repo": "spring-security",
-                "stars": 9637,
+                "stars": 9638,
                 "topics": [
                   "framework",
                   "java",
@@ -111,7 +111,7 @@
                 "open_issues": 2,
                 "owner": "pac4j",
                 "repo": "pac4j",
-                "stars": 2530,
+                "stars": 2531,
                 "topics": [
                   "authentication",
                   "authorization",
@@ -150,7 +150,7 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-18T18:14:11Z",
-                "open_issues": 135,
+                "open_issues": 136,
                 "owner": "ESAPI",
                 "repo": "esapi-java-legacy",
                 "stars": 648,
@@ -266,8 +266,8 @@
                 "id": 72889410,
                 "language": "Java",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-03T02:36:33Z",
-                "open_issues": 468,
+                "last_commit": "2026-10-04T16:45:26Z",
+                "open_issues": 466,
                 "owner": "spotbugs",
                 "repo": "spotbugs",
                 "stars": 3949,
@@ -335,10 +335,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-01T08:13:37Z",
-                "open_issues": 863,
+                "open_issues": 864,
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15863,
+                "stars": 15867,
                 "topics": [
                   "appsec",
                   "dast",
@@ -397,7 +397,7 @@
                 "open_issues": 124,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5670,
+                "stars": 5671,
                 "topics": [
                   "monitor",
                   "security",
@@ -448,10 +448,10 @@
                 "language": "Java",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-01T04:09:00Z",
-                "open_issues": 282,
+                "open_issues": 284,
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 16240,
+                "stars": 16245,
                 "topics": [
                   "cloud-storage",
                   "crypto",
@@ -481,7 +481,7 @@
                 "open_issues": 0,
                 "owner": "tink-crypto",
                 "repo": "tink",
-                "stars": 13539,
+                "stars": 13540,
                 "topics": [
                   "cpp",
                   "crypto",
@@ -541,7 +541,7 @@
                 "open_issues": 161,
                 "owner": "google",
                 "repo": "conscrypt",
-                "stars": 1410,
+                "stars": 1411,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
@@ -615,7 +615,7 @@
                 "open_issues": 45,
                 "owner": "WebGoat",
                 "repo": "WebGoat",
-                "stars": 9389,
+                "stars": 9390,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T16:27:36.033Z",
+    "last_updated": "2026-10-04T16:53:16.468Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Java Security Resources 🕶☕🔐",

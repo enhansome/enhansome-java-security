@@ -153,7 +153,7 @@
                 "open_issues": 136,
                 "owner": "ESAPI",
                 "repo": "esapi-java-legacy",
-                "stars": 648,
+                "stars": 649,
                 "topics": [
                   "java",
                   "security"
@@ -219,7 +219,7 @@
                 "open_issues": 1,
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 11056,
+                "stars": 11061,
                 "topics": [
                   "code-quality",
                   "sonarqube",
@@ -266,11 +266,11 @@
                 "id": 72889410,
                 "language": "Java",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-10T01:34:55Z",
+                "last_commit": "2026-10-11T01:34:04Z",
                 "open_issues": 456,
                 "owner": "spotbugs",
                 "repo": "spotbugs",
-                "stars": 3950,
+                "stars": 3953,
                 "topics": [
                   "code-analysis",
                   "findbugs",
@@ -298,7 +298,7 @@
                 "open_issues": 116,
                 "owner": "find-sec-bugs",
                 "repo": "find-sec-bugs",
-                "stars": 2449,
+                "stars": 2448,
                 "topics": [
                   "bytecode",
                   "code-analysis",
@@ -338,7 +338,7 @@
                 "open_issues": 864,
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15911,
+                "stars": 15915,
                 "topics": [
                   "appsec",
                   "dast",
@@ -393,8 +393,8 @@
                 "id": 45247496,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-10T17:07:02Z",
-                "open_issues": 124,
+                "last_commit": "2026-10-11T09:40:29Z",
+                "open_issues": 123,
                 "owner": "snyk",
                 "repo": "cli",
                 "stars": 5673,
@@ -451,7 +451,7 @@
                 "open_issues": 283,
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 16281,
+                "stars": 16286,
                 "topics": [
                   "cloud-storage",
                   "crypto",
@@ -611,11 +611,11 @@
                 "id": 31771754,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T07:12:55Z",
-                "open_issues": 33,
+                "last_commit": "2026-10-11T12:59:22Z",
+                "open_issues": 32,
                 "owner": "WebGoat",
                 "repo": "WebGoat",
-                "stars": 9402,
+                "stars": 9404,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
@@ -636,7 +636,7 @@
                 "open_issues": 160,
                 "owner": "OWASP",
                 "repo": "SecurityShepherd",
-                "stars": 1460,
+                "stars": 1461,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T17:22:38.946Z",
+    "last_updated": "2026-10-11T17:42:17.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Java Security Resources 🕶☕🔐",

@@ -59,11 +59,11 @@
                 "id": 3148979,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T00:46:17Z",
-                "open_issues": 1541,
+                "last_commit": "2026-10-16T17:12:17Z",
+                "open_issues": 1542,
                 "owner": "spring-projects",
                 "repo": "spring-security",
-                "stars": 9650,
+                "stars": 9651,
                 "topics": [
                   "framework",
                   "java",
@@ -107,8 +107,8 @@
                 "id": 3291848,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T14:33:31Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-16T20:01:08Z",
+                "open_issues": 2,
                 "owner": "pac4j",
                 "repo": "pac4j",
                 "stars": 2535,
@@ -215,11 +215,11 @@
                 "id": 1222504,
                 "language": "Java",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-10-15T20:09:29Z",
+                "last_commit": "2026-10-16T20:07:38Z",
                 "open_issues": 1,
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 11073,
+                "stars": 11077,
                 "topics": [
                   "code-quality",
                   "sonarqube",
@@ -244,7 +244,7 @@
                 "open_issues": 74,
                 "owner": "michenriksen",
                 "repo": "gitrob",
-                "stars": 6195,
+                "stars": 6196,
                 "topics": [
                   "github-api",
                   "golang",
@@ -270,7 +270,7 @@
                 "open_issues": 458,
                 "owner": "spotbugs",
                 "repo": "spotbugs",
-                "stars": 3957,
+                "stars": 3959,
                 "topics": [
                   "code-analysis",
                   "findbugs",
@@ -335,10 +335,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-15T14:54:29Z",
-                "open_issues": 865,
+                "open_issues": 866,
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 15948,
+                "stars": 15953,
                 "topics": [
                   "appsec",
                   "dast",
@@ -451,7 +451,7 @@
                 "open_issues": 281,
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 16316,
+                "stars": 16319,
                 "topics": [
                   "cloud-storage",
                   "crypto",
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T16:44:39.047Z",
+    "last_updated": "2026-10-17T15:41:33.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Java Security Resources 🕶☕🔐",

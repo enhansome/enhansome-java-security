@@ -60,10 +60,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T05:22:25Z",
-                "open_issues": 1574,
+                "open_issues": 1576,
                 "owner": "spring-projects",
                 "repo": "spring-security",
-                "stars": 9665,
+                "stars": 9667,
                 "topics": [
                   "framework",
                   "java",
@@ -107,8 +107,8 @@
                 "id": 3291848,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-06T12:35:53Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-07T04:45:46Z",
+                "open_issues": 1,
                 "owner": "pac4j",
                 "repo": "pac4j",
                 "stars": 2538,
@@ -215,11 +215,11 @@
                 "id": 1222504,
                 "language": "Java",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-11-05T20:06:27Z",
+                "last_commit": "2026-11-06T20:06:25Z",
                 "open_issues": 0,
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 11158,
+                "stars": 11159,
                 "topics": [
                   "code-quality",
                   "sonarqube",
@@ -266,8 +266,8 @@
                 "id": 72889410,
                 "language": "Java",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-06T09:37:46Z",
-                "open_issues": 478,
+                "last_commit": "2026-11-06T20:04:04Z",
+                "open_issues": 480,
                 "owner": "spotbugs",
                 "repo": "spotbugs",
                 "stars": 3965,
@@ -338,7 +338,7 @@
                 "open_issues": 880,
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 16120,
+                "stars": 16127,
                 "topics": [
                   "appsec",
                   "dast",
@@ -397,7 +397,7 @@
                 "open_issues": 141,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5699,
+                "stars": 5701,
                 "topics": [
                   "monitor",
                   "security",
@@ -451,7 +451,7 @@
                 "open_issues": 268,
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 16462,
+                "stars": 16460,
                 "topics": [
                   "cloud-storage",
                   "crypto",
@@ -481,7 +481,7 @@
                 "open_issues": 0,
                 "owner": "tink-crypto",
                 "repo": "tink",
-                "stars": 13535,
+                "stars": 13534,
                 "topics": [
                   "cpp",
                   "crypto",
@@ -615,7 +615,7 @@
                 "open_issues": 38,
                 "owner": "WebGoat",
                 "repo": "WebGoat",
-                "stars": 9462,
+                "stars": 9464,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T19:29:26.870Z",
+    "last_updated": "2026-11-07T17:45:52.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Java Security Resources 🕶☕🔐",

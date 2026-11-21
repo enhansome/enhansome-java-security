@@ -21,7 +21,7 @@
                 "open_issues": 51,
                 "owner": "jwtk",
                 "repo": "jjwt",
-                "stars": 11147,
+                "stars": 11148,
                 "topics": [
                   "hacktoberfest",
                   "jackson",
@@ -60,10 +60,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-20T17:52:02Z",
-                "open_issues": 1581,
+                "open_issues": 1584,
                 "owner": "spring-projects",
                 "repo": "spring-security",
-                "stars": 9667,
+                "stars": 9668,
                 "topics": [
                   "framework",
                   "java",
@@ -90,7 +90,7 @@
                 "open_issues": 545,
                 "owner": "spring-attic",
                 "repo": "spring-security-oauth",
-                "stars": 4680,
+                "stars": 4679,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
@@ -107,8 +107,8 @@
                 "id": 3291848,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-20T13:55:18Z",
-                "open_issues": 3,
+                "last_commit": "2026-11-21T03:32:26Z",
+                "open_issues": 4,
                 "owner": "pac4j",
                 "repo": "pac4j",
                 "stars": 2538,
@@ -219,7 +219,7 @@
                 "open_issues": 1,
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 11199,
+                "stars": 11204,
                 "topics": [
                   "code-quality",
                   "sonarqube",
@@ -244,7 +244,7 @@
                 "open_issues": 74,
                 "owner": "michenriksen",
                 "repo": "gitrob",
-                "stars": 6200,
+                "stars": 6199,
                 "topics": [
                   "github-api",
                   "golang",
@@ -266,11 +266,11 @@
                 "id": 72889410,
                 "language": "Java",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-20T07:23:23Z",
-                "open_issues": 481,
+                "last_commit": "2026-11-21T19:00:53Z",
+                "open_issues": 482,
                 "owner": "spotbugs",
                 "repo": "spotbugs",
-                "stars": 3968,
+                "stars": 3970,
                 "topics": [
                   "code-analysis",
                   "findbugs",
@@ -338,7 +338,7 @@
                 "open_issues": 889,
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 16237,
+                "stars": 16241,
                 "topics": [
                   "appsec",
                   "dast",
@@ -397,7 +397,7 @@
                 "open_issues": 137,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5713,
+                "stars": 5716,
                 "topics": [
                   "monitor",
                   "security",
@@ -451,7 +451,7 @@
                 "open_issues": 261,
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 16552,
+                "stars": 16556,
                 "topics": [
                   "cloud-storage",
                   "crypto",
@@ -612,10 +612,10 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-16T09:55:42Z",
-                "open_issues": 39,
+                "open_issues": 40,
                 "owner": "WebGoat",
                 "repo": "WebGoat",
-                "stars": 9490,
+                "stars": 9493,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
@@ -636,7 +636,7 @@
                 "open_issues": 190,
                 "owner": "OWASP",
                 "repo": "SecurityShepherd",
-                "stars": 1468,
+                "stars": 1469,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T20:29:02.370Z",
+    "last_updated": "2026-11-21T19:24:41.146Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Java Security Resources 🕶☕🔐",

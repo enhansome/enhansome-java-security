@@ -90,7 +90,7 @@
                 "open_issues": 545,
                 "owner": "spring-attic",
                 "repo": "spring-security-oauth",
-                "stars": 4679,
+                "stars": 4678,
                 "topics": []
               },
               "first_seen": "2026-08-28T22:26:25.671Z"
@@ -219,7 +219,7 @@
                 "open_issues": 1,
                 "owner": "SonarSource",
                 "repo": "sonarqube",
-                "stars": 11204,
+                "stars": 11206,
                 "topics": [
                   "code-quality",
                   "sonarqube",
@@ -244,7 +244,7 @@
                 "open_issues": 74,
                 "owner": "michenriksen",
                 "repo": "gitrob",
-                "stars": 6199,
+                "stars": 6197,
                 "topics": [
                   "github-api",
                   "golang",
@@ -267,7 +267,7 @@
                 "language": "Java",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-11-21T19:00:53Z",
-                "open_issues": 482,
+                "open_issues": 484,
                 "owner": "spotbugs",
                 "repo": "spotbugs",
                 "stars": 3970,
@@ -338,7 +338,7 @@
                 "open_issues": 889,
                 "owner": "zaproxy",
                 "repo": "zaproxy",
-                "stars": 16241,
+                "stars": 16244,
                 "topics": [
                   "appsec",
                   "dast",
@@ -397,7 +397,7 @@
                 "open_issues": 137,
                 "owner": "snyk",
                 "repo": "cli",
-                "stars": 5716,
+                "stars": 5717,
                 "topics": [
                   "monitor",
                   "security",
@@ -451,7 +451,7 @@
                 "open_issues": 261,
                 "owner": "cryptomator",
                 "repo": "cryptomator",
-                "stars": 16556,
+                "stars": 16563,
                 "topics": [
                   "cloud-storage",
                   "crypto",
@@ -481,7 +481,7 @@
                 "open_issues": 0,
                 "owner": "tink-crypto",
                 "repo": "tink",
-                "stars": 13530,
+                "stars": 13529,
                 "topics": [
                   "cpp",
                   "crypto",
@@ -612,7 +612,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-16T09:55:42Z",
-                "open_issues": 40,
+                "open_issues": 43,
                 "owner": "WebGoat",
                 "repo": "WebGoat",
                 "stars": 9493,
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T19:24:41.146Z",
+    "last_updated": "2026-11-22T19:47:53.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Java Security Resources 🕶☕🔐",
